@@ -19,7 +19,7 @@ collections:
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Tags", name: "tags", widget: "list"}
       
-    - name: "Content pages"
+  - name: "Content pages"
     label: "Content pages"
     folder: "src/pages/cpages"
     create: true
